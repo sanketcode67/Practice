@@ -10,6 +10,7 @@ public class ArmstrongRecursion {
         int a = 100;
         int b = 10000;
         printArm(a,b);
+
     }
     public static void printArm(int a,int b)
     {
